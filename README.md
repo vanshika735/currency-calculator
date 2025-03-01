@@ -1,2 +1,2 @@
-# currency-calculator
-A simple currency calculator with currency conversion and simple interest.
+# Currency Calculator
+A simple currency calculator using Flask and real-time exchange rates.
